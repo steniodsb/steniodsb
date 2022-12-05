@@ -1,4 +1,4 @@
-## Oiii eu sou o Stenio, programador python e data engineer!
+## Oi! Eu sou o Stenio, programador python e data engineer!
 <div align="center">
   <a href="https://github.com/steniodsb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=steniodsb&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
