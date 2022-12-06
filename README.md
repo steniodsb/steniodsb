@@ -1,5 +1,5 @@
 ## 
-👋 Olá! Eu sou o <strong>Stenio</strong>, programador (python e js) e data engineer!
+👋 Olá! Eu sou o <strong>Stenio</strong>, programador (python e js) e data engineer!<br>
 📚 Atualmente estou me aperfeiçoando em python e estudando data engineer.
 <div align="left">
   <a href="https://github.com/steniodsb">
