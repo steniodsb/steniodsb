@@ -1,6 +1,6 @@
 ## 
-👋 Olá! Eu sou o <strong>Stenio</strong>, programador (python e js) e data engineer!<br>
-📚 Atualmente estou me aperfeiçoando em python e estudando data engineer.
+👋 Olá! Eu sou o <strong>Stenio</strong>, desenvolvedor (js)<br>
+📚 Atualmente estou me aperfeiçoando em node.js e estudando react.js
 <div align="left">
   <a href="https://github.com/steniodsb">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=steniodsb&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
